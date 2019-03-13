@@ -45,3 +45,6 @@ python manage.py makemigrations s2
 python manage.py migrate s2
 
 6) re-runserver
+
+*****************
+If you like this starter theme, want help with your django projects or want more advanced django templates visit my website. Www.afrodoo.co
