@@ -2,12 +2,10 @@
 Simple template 2
 Template starter
 
-3 Sections + contact
+3 Sections 
 
 editable Model
 
-
-Front => auto slider 
 
 Section1s
 
@@ -16,7 +14,7 @@ Section2s
 
 
 
-![alt text](https://github.com/QbasicFan/s1/blob/master/s1Front.png)
+![alt text](https://github.com/QbasicFan/s2/blob/master/ss2.png)
 
 
 
@@ -31,7 +29,7 @@ git clone https://github.com/QbasicFan/s2
 2) settings.py
 
 INSTALLED_APPS = (
-    "s1",
+    "s2",
     
     ...
 3) settings.py
