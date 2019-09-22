@@ -46,7 +46,6 @@ python manage.py migrate s2
 
 6) re-runserver
 
-no post to today
 
 *****************
 If you like this starter theme, want help with your django projects or want more advanced django templates visit my website. http://www.philserme.com/
