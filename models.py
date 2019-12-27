@@ -1,6 +1,7 @@
 
 from django.db import models
 from .thingsList import color
+
 # Create your models here.
 
 
